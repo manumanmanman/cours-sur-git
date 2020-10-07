@@ -1,0 +1,14 @@
+body {
+  background: black;
+}
+
+h1, p {
+  color: whitesmoke;
+}
+
+nav {
+  background-color: beige;
+  padding: 10px;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
