@@ -21,6 +21,12 @@ body {
   width: 50px;
 }
 
+#mikko {
+  min-width: 200px;
+  min-height: 50px;
+  background-color: lightseagreen;
+}
+
 #sarah {
   height: 30px;
   width: 50vw;
