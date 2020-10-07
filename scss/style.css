@@ -7,4 +7,11 @@
 body {
   background-color: #703d92;
 }
+
+#julien {
+  background-color: blueviolet;
+  border: 2px solid #ba40c5;
+  height: 30px;
+  width: 50px;
+}
 /*# sourceMappingURL=style.css.map */

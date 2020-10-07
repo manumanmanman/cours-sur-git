@@ -1,10 +1,10 @@
 {
     "version": 3,
-    "mappings": "ACAA,AAAA,MAAM,CAAA;EACH,MAAM,EAAE,IAAI;EACZ,KAAK,EAAC,IAAI;EACV,gBAAgB,EAAE,UAAU;CAC9B;;ACJD,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,OAAiB;CACtC",
+    "mappings": "ACAA,AAAA,MAAM,CAAA;EACH,MAAM,EAAE,IAAI;EACZ,KAAK,EAAC,IAAI;EACV,gBAAgB,EAAE,UAAU;CAC9B;;ACJD,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,OAAiB;CACtC;;AAED,AAAA,OAAO,CAAA;EACH,gBAAgB,EAAE,UAAU;EAC5B,MAAM,EAAE,GAAG,CAAC,KAAK,CAAC,OAAiB;EACnC,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;CACd",
     "sources": [
         "style.scss",
         "_ayoub.scss",
-        "julien.scss"
+        "_julien.scss"
     ],
     "names": [],
     "file": "style.css"
