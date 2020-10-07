@@ -32,4 +32,10 @@ body {
   width: 50vw;
   background-color: bisque;
 }
+
+#eric {
+  background-color: #008080;
+  height: 45px;
+  width: 50vh;
+}
 /*# sourceMappingURL=style.css.map */
